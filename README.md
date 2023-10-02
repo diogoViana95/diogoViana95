@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
-- 🔭 I’m currently working on [NOS Inovação](https://www.nosinovacao.pt)
+- 🔭 I’m currently working at [NOS Inovação](https://www.nosinovacao.pt)
 
 - 🌱 I’m currently learning **React Native**
 
