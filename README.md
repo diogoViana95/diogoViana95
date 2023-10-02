@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **diogo.g.viana@gmail.com**
 
+- 🏠 I’m currently living in Lisbon
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/diogoviana95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="diogoviana95" height="30" width="40" /></a>
